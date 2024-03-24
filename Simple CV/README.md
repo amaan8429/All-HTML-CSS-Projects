@@ -1,1 +1,3 @@
-# https://amaan8429.github.io/cv/
+#Simple CV
+
+Simple CV made using html and css

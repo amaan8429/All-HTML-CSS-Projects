@@ -1,2 +1,3 @@
 # VisualVista
-https://amaan8429.github.io/VisualVista/
+
+Landing page for a image editing application
